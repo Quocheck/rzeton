@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "740102673374",
+    "project_id": "rzetonik-3df84",
+    "storage_bucket": "rzetonik-3df84.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740102673374:android:9162143bf38e05c06ac34f",
+        "android_client_info": {
+          "package_name": "com.example.tictactoeapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "740102673374-ggot2gqb4h8ajieroejsfbs8gv7ernfu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYHQj6oDnDSr2QYJDw5iNUtqLPRahruPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "740102673374-ggot2gqb4h8ajieroejsfbs8gv7ernfu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
